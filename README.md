@@ -5,12 +5,7 @@
 
 <br>
 
-A curated corpus of word associations, consisting of 65,108 entries with 1,888,505 associations. 
-
-I created this collection to be used as training data for models of associative memory.
-
-Full list available as [CSV](assets/WordAssociations.csv) file.
-
+This is a curated corpus of word associations, consisting of 65,108 entries with 1,888,505 associations. I created this collection to be used as training data for models of associative memory. The full list available in [CSV](assets/WordAssociations.csv) format.
 
 
 <br>
@@ -8145,3 +8140,4 @@ Full list available as [CSV](assets/WordAssociations.csv) file.
 **azurite** → malachite, copper, mineral, crystals, color, stone, formation, specimens, matrix, blue, pigment, crystal, ore, gemstone, geology, carbonate
 agriculture, apples, hops, wineries, mountains, outdoors, fishing, hiking, wildlife, scenery, vineyards, orchards
  transition, culture
+
